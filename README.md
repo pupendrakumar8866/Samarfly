@@ -1,3 +1,3 @@
 # Samarfly
 This is first repository 
-Authoe : Samar Chauhan
+Author : Samar Chauhan
